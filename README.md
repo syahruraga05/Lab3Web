@@ -47,3 +47,14 @@
 ![Img](/img/Capture14.PNG)
 * Lalu save untuk melihat hasilnya.
 ![Img](/img/Capture15.PNG)
+</br>
+
+## **Pertanyaan dan Tugas**
+1. Buatlah form yang menampilkan **dropdown** menu dan **listbox** dengan _multiple selection_
+</br>
+
+## **Jawaban**
+Berikut adalah source codenya.
+![Img](/img/Capture16.PNG)
+Dan ini hasilnya setelah dijalankan pada browser.
+![Img](/img/Capture17.PNG)
