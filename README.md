@@ -23,3 +23,7 @@
 </br>
 
 ### Membuat Tabel
+* Membuat dokumen html untuk membuat tabel sederhana seperti berikut. 
+![Img](/Img/Capture8.PNG)
+* Lalu save untuk melihat hasilnya.
+![Img](/Img/Capture9.PNG)
