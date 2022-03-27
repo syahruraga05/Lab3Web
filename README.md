@@ -7,7 +7,7 @@
 ## **Langkah-Langkah Praktikum**
 ### Membuat List
 * Membuat dokumen HTML, seperti berikut.
-![Gambar](/Img/Capture1.PNG)
+![Gambar](/img/Capture1.PNG)
 * Kemudian tambahkan kode untuk membuat _Ordered List_ seperti berikut.
 ![Img](/Img/Capture2.PNG)
 * Lalu save untuk melihat hasilnya.
