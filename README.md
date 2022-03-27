@@ -8,7 +8,7 @@
 ### Membuat List
 
 * Membuat dokumen HTML, seperti berikut.
-![Img](Img/Capture1.PNG)
+![Img](/Img/Capture1.PNG)
 * Kemudian tambahkan kode untuk membuat _Ordered List_ seperti berikut.
 ![Img](/Img/Capture2.PNG)
 * Lalu save untuk melihat hasilnya.
