@@ -12,7 +12,7 @@
 ![Img](/img/Capture2.PNG)
 * Lalu save untuk melihat hasilnya.
 ![Img](/img/Capture3.PNG)
-* Kemudian tambahkan kode untuk membuat _Unordened List_, setelah deklarasi list pada section `unordened list`, seperti berikut.
+* Kemudian tambahkan kode untuk membuat _Unordened List_, setelah deklarasi list pada section `unordened list`, seperti berikut.</br>
 ![Img](/img/Capture4.PNG)
 * Lalu save untuk melihat hasilnya.
 ![Img](/img/Capture5.PNG)
